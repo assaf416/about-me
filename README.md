@@ -19,7 +19,8 @@ Agile web developer ( Ruby, Javascript, Java/EE, linux)
 * [setup Development environment on OSX]()
 * [setup Development environment on Ubuntu]()
 
-* [setup ruby on AWS Server]()
+* [setup ruby on AWS Server]( SetupRubyOnAWSInstance )
+* [setup ruby on Heroku Server](SetupRubyOnHerokuServer)
 * [setup JRuby on AWS Server]()
 * [Setup Angular.js on AWS Server]()
 
